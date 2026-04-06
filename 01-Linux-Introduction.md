@@ -57,7 +57,7 @@ Linux is an open-source, Unix-like kernel that forms the base of many operating 
 
 ---
 
-## 🧠 Key Difference (Simple)
+## Key Difference 
 
 - Unix (AIX) → Proprietary, tightly controlled, enterprise-focused  
 - Linux (RHEL) → Built on open-source, commercially distributed, flexible, widely adopted in industries 
